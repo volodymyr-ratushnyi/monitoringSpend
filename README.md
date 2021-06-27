@@ -1,3 +1,12 @@
+# My instruction
+
+Steps:
+
+1. git clone https://github.com/volodymyr-ratushnyi/monitoringSpend.git
+2. npm install
+3. npm run start
+4. you can take to look at http://localhost:3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
